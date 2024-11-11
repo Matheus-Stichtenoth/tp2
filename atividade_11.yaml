@@ -1,3 +1,6 @@
 roteiro:
-  atenas_roma: >
-    Liste 3 pontos turísticos famosos de Atenas e Roma, incluindo o número anual de visitantes. Quero que o formato retornado seja um json
+  atenas: >
+    Liste 3 pontos turísticos famosos de Atenas, incluindo o número anual de visitantes e uma breve descrição de cada um.
+
+  roma: >
+    Liste 3 pontos turísticos famosos de Roma, incluindo o número anual de visitantes e uma breve descrição de cada um.
