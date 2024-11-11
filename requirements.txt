@@ -5,3 +5,7 @@ scipy
 scikit-learn
 matplotlib
 seaborn
+transformers
+torch
+python-dotenv
+google-generativeai
